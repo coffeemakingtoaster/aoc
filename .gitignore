@@ -1,5 +1,4 @@
-*/in.txt
-*/out.txt
+*.txt
 !./_base/in.txt
 !./_base/out.txt
 
